@@ -1,0 +1,191 @@
+{
+    "name": "林亞澤",
+    "name_en": "Yaze Lin",
+    "logo_name": "yaze-lin",
+    "role": "AI 應用開發",
+    "site_url": "https://yazelin.github.io/developer-portfolio-demo/",
+    "description": "林亞澤（Yaze Lin）的作品集：在擎添工業做 AI 應用開發，之前做了十幾年工業自動化系統整合。這裡放我做的網頁作品、小工具、角色與每週三直播。",
+    "credit": {
+        "text": "本站改自 Álex Rueda（@alexdeploy）的 developer-portfolio-v2（MIT 授權），原設計為 @darelova 的 Portfolio for Developers Concept V.2。",
+        "url": "https://github.com/alexdeploy/developer-portfolio-v2"
+    },
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "label": "工作經歷",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "現職": {
+                        "title": "現職",
+                        "description": "現在在擎添工業做 AI 應用開發。"
+                    },
+                    "工業自動化": {
+                        "title": "工業自動化",
+                        "description": "之前在工業自動化做了十幾年系統整合，<br>做過 KUKA 機器手臂、機器視覺、AGV。"
+                    },
+                    "授課": {
+                        "title": "授課",
+                        "description": "2015 到 2020 年在大學授課。"
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "label": "關於我",
+                "icon": "icons/info-personal.svg",
+                "info": {
+                    "自我介紹": {
+                        "title": "自我介紹",
+                        "description": "我是林亞澤（Yaze Lin）。<br>在擎添工業做 AI 應用開發；之前在工業自動化做了十幾年系統整合（KUKA 機器手臂、機器視覺、AGV），2015–2020 在大學授課。<br><br>每週三晚上八點在 LINE 社群直播，聊怎麼用 AI 把想法做出來。"
+                    },
+                    "週三直播": {
+                        "title": "週三直播",
+                        "description": "每週三晚上八點在 LINE 社群直播，聊怎麼用 AI 把想法做出來。<br>右邊列了最近的場次，點進去可以看每場的內容。"
+                    },
+                    "本站出處": {
+                        "title": "本站出處",
+                        "description": "這個網站改自 Álex Rueda（<a href=\"https://github.com/alexdeploy\" target=\"_blank\" rel=\"noopener\">@alexdeploy</a>）的開源作品 <a href=\"https://github.com/alexdeploy/developer-portfolio-v2\" target=\"_blank\" rel=\"noopener\">developer-portfolio-v2</a>，採 MIT 授權；原始設計是 <a href=\"https://www.behance.net/darelova\" target=\"_blank\" rel=\"noopener\">@darelova</a> 的 Portfolio for Developers Concept V.2。<br>內容換成我的，版面與貪食蛇小遊戲沿用原作。"
+                    }
+                }
+            },
+            "characters-info": {
+                "title": "characters-info",
+                "label": "我的角色",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "格莉奇": {
+                        "title": "格莉奇",
+                        "description": "只有 4KB 記憶體的 AI 機器人少女，話說得很滿，下一秒就當機。<br><br><a href=\"https://yazelin.github.io/characters/glitch/\" target=\"_blank\" rel=\"noopener\">→ 格莉奇的角色頁</a>"
+                    },
+                    "黑洞先生": {
+                        "title": "黑洞先生",
+                        "description": "黑洞的具現化。有正職，脾氣好，會把你忘掉的東西吃掉。<br><br><a href=\"https://yazelin.github.io/characters/blackhole/\" target=\"_blank\" rel=\"noopener\">→ 黑洞先生的角色頁</a>"
+                    },
+                    "Mori": {
+                        "title": "Mori",
+                        "description": "森林裡的精靈，也是我的桌面同伴。她的工作是記得。<br><br><a href=\"https://yazelin.github.io/characters/mori/\" target=\"_blank\" rel=\"noopener\">→ Mori 的角色頁</a>"
+                    },
+                    "優理": {
+                        "title": "優理",
+                        "description": "森林宇宙裡的年輕學徒，正在把「有理」一點點練出來。<br><br><a href=\"https://yazelin.github.io/characters/yori/\" target=\"_blank\" rel=\"noopener\">→ 優理的角色頁</a>"
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "連結",
+            "sources": {
+                "blog": { "title": "部落格", "url": "https://yazelin.github.io/" },
+                "github": { "title": "GitHub", "url": "https://github.com/yazelin" },
+                "facebook": { "title": "Facebook", "url": "https://www.facebook.com/yaze.lin.gm" },
+                "coffee": { "title": "Buy Me a Coffee", "url": "https://buymeacoffee.com/yazelin" }
+            }
+        },
+        "social": {
+            "github": {
+                "title": "GitHub",
+                "url": "https://github.com/",
+                "user": "yazelin"
+            },
+            "facebook": {
+                "title": "Facebook",
+                "url": "https://www.facebook.com/",
+                "user": "yaze.lin.gm"
+            }
+        }
+    },
+    "livestreams": [
+        { "date": "08/05", "title": "貼圖實作營", "url": "https://yazelin.github.io/events/sticker-2026-08-05/" },
+        { "date": "08/12", "title": "LINE 搞笑對話創作營", "url": "https://yazelin.github.io/events/chat-2026-08-12/" },
+        { "date": "08/19", "title": "AI 給的設計圖會騙人", "url": "https://yazelin.github.io/events/skull-2026-08-19/" },
+        { "date": "08/26", "title": "拆解 AI 許願池", "url": "https://yazelin.github.io/events/wishpool-2026-08-26/" },
+        { "date": "09/02", "title": "怎麼做高質感的網頁簡報", "url": "https://yazelin.github.io/events/deck-2026-09-02/" },
+        { "date": "09/09", "title": "視覺小說第一週：協作共創", "url": "https://yazelin.github.io/events/site-2026-09-09/" },
+        { "date": "09/16", "title": "視覺小說第二週：交給 Agent 做解謎", "url": "https://yazelin.github.io/events/puzzle-2026-09-16/" },
+        { "date": "09/23", "title": "用 AI 做自己的刷題網站", "url": "https://yazelin.github.io/events/quiz-2026-09-23/" },
+        { "date": "09/30", "title": "幫你的網頁加點特效", "url": "https://yazelin.github.io/events/effects-2026-09-30/" }
+    ],
+    "projects": [
+        {
+            "title": "格莉奇與黑洞先生",
+            "description": "只有 4KB 記憶體的 AI 主播，開台第一天來了七個人，她說要記住每一個。七章小說，每一句都能點來聽。",
+            "img": "images/projects/glitch-vn.jpg",
+            "tech": ["視覺小說"],
+            "url": "https://yazelin.github.io/glitch-vn/"
+        },
+        {
+            "title": "格莉奇OS",
+            "description": "格莉奇的網頁作業系統：LINE 風格聊天、心情日記、專屬音樂，桌上還有一隻會動的她。",
+            "img": "images/projects/ai-brain-site.jpg",
+            "tech": ["網頁 OS", "PWA"],
+            "url": "https://yazelin.github.io/ai-brain-site/"
+        },
+        {
+            "title": "iPAS AI 模擬考",
+            "description": "iPAS AI 應用規劃師刷題站，890 題官方試題免費練，離線也能刷，有人用它考過了。",
+            "img": "images/projects/ipas-ai-quiz.jpg",
+            "tech": ["刷題網站"],
+            "url": "https://yazelin.github.io/ipas-ai-quiz/"
+        },
+        {
+            "title": "Catime",
+            "description": "每小時自動生一隻 AI 貓，跑了八個月，累積兩千多隻的圖庫。",
+            "img": "images/projects/catime.jpg",
+            "tech": ["每天自己跑"],
+            "url": "https://yazelin.github.io/catime/"
+        },
+        {
+            "title": "真AI咏唱魔法",
+            "description": "對麥克風唸咒語，AI 即時生成魔法效果的生存遊戲。",
+            "img": "images/projects/ai-chant-magic.jpg",
+            "tech": ["語音遊戲"],
+            "url": "https://yazelin.github.io/ai-chant-magic/"
+        },
+        {
+            "title": "Roll Formosa",
+            "description": "把台灣街景滾成一顆球的遊戲，四座城市上線。",
+            "img": "images/projects/roll-formosa.jpg",
+            "tech": ["3D 遊戲"],
+            "url": "https://yazelin.github.io/roll-formosa/"
+        },
+        {
+            "title": "K-Rider K 線騎手",
+            "description": "用真實股價 K 線當地形的騎乘遊戲。",
+            "img": "images/projects/k-rider.jpg",
+            "tech": ["網頁遊戲"],
+            "url": "https://yazelin.github.io/k-rider/"
+        },
+        {
+            "title": "AI 戰場編輯器",
+            "description": "赤壁、官渡、垓下，六場古戰役 3D 重現，換一份資料就換一場戰役。",
+            "img": "images/projects/battlefield-editor.jpg",
+            "tech": ["3D 編輯器"],
+            "url": "https://yazelin.github.io/battlefield-editor/"
+        },
+        {
+            "title": "LINE 貼圖製造機",
+            "description": "上傳一張角色圖，AI 產出一整組 LINE 貼圖。",
+            "img": "images/projects/line-sticker-studio.jpg",
+            "tech": ["AI 工具"],
+            "url": "https://yazelin.github.io/line-sticker-studio/"
+        }
+    ],
+    "tools": [
+        { "title": "LINE 對話製造機", "url": "https://yazelin.github.io/line-chat-maker/" },
+        { "title": "AI 字體風格庫", "url": "https://yazelin.github.io/ai-font-styles/" },
+        { "title": "台語辭典", "url": "https://yazelin.github.io/mandarin-taigi/" },
+        { "title": "客語辭典", "url": "https://yazelin.github.io/mandarin-hakka/" },
+        { "title": "瀏覽器去背", "url": "https://yazelin.github.io/bye-bg/" },
+        { "title": "台灣化轉換器", "url": "https://yazelin.github.io/taiwanize/" },
+        { "title": "行銷工具箱", "url": "https://yazelin.github.io/marketing-toolbox/" },
+        { "title": "抽獎轉盤", "url": "https://yazelin.github.io/lucky-wheel/" },
+        { "title": "網頁特效蒐集站", "url": "https://yazelin.github.io/web-effects-collector/" },
+        { "title": "隱形浮水印實驗室", "url": "https://yazelin.github.io/invisible-watermark-lab/" },
+        { "title": "格莉奇扭蛋機", "url": "https://yazelin.github.io/glitch-park-gacha/" },
+        { "title": "AI 願望池", "url": "https://yazelin.github.io/wish-pool/" },
+        { "title": "Mori 角色動畫工作室", "url": "https://mori-sprite-studio.vercel.app" }
+    ]
+}
