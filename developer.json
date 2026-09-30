@@ -78,10 +78,22 @@
         "direct": {
             "title": "連結",
             "sources": {
-                "blog": { "title": "部落格", "url": "https://yazelin.github.io/" },
-                "github": { "title": "GitHub", "url": "https://github.com/yazelin" },
-                "facebook": { "title": "Facebook", "url": "https://www.facebook.com/yaze.lin.gm" },
-                "coffee": { "title": "Buy Me a Coffee", "url": "https://buymeacoffee.com/yazelin" }
+                "blog": {
+                    "title": "部落格",
+                    "url": "https://yazelin.github.io/"
+                },
+                "github": {
+                    "title": "GitHub",
+                    "url": "https://github.com/yazelin"
+                },
+                "facebook": {
+                    "title": "Facebook",
+                    "url": "https://www.facebook.com/yaze.lin.gm"
+                },
+                "coffee": {
+                    "title": "Buy Me a Coffee",
+                    "url": "https://buymeacoffee.com/yazelin"
+                }
             }
         },
         "social": {
@@ -98,94 +110,187 @@
         }
     },
     "livestreams": [
-        { "date": "08/05", "title": "貼圖實作營", "url": "https://yazelin.github.io/events/sticker-2026-08-05/" },
-        { "date": "08/12", "title": "LINE 搞笑對話創作營", "url": "https://yazelin.github.io/events/chat-2026-08-12/" },
-        { "date": "08/19", "title": "AI 給的設計圖會騙人", "url": "https://yazelin.github.io/events/skull-2026-08-19/" },
-        { "date": "08/26", "title": "拆解 AI 許願池", "url": "https://yazelin.github.io/events/wishpool-2026-08-26/" },
-        { "date": "09/02", "title": "怎麼做高質感的網頁簡報", "url": "https://yazelin.github.io/events/deck-2026-09-02/" },
-        { "date": "09/09", "title": "視覺小說第一週：協作共創", "url": "https://yazelin.github.io/events/site-2026-09-09/" },
-        { "date": "09/16", "title": "視覺小說第二週：交給 Agent 做解謎", "url": "https://yazelin.github.io/events/puzzle-2026-09-16/" },
-        { "date": "09/23", "title": "用 AI 做自己的刷題網站", "url": "https://yazelin.github.io/events/quiz-2026-09-23/" },
-        { "date": "09/30", "title": "幫你的網頁加點特效", "url": "https://yazelin.github.io/events/effects-2026-09-30/" }
+        {
+            "date": "08/05",
+            "title": "貼圖實作營",
+            "url": "https://yazelin.github.io/events/sticker-2026-08-05/"
+        },
+        {
+            "date": "08/12",
+            "title": "LINE 搞笑對話創作營",
+            "url": "https://yazelin.github.io/events/chat-2026-08-12/"
+        },
+        {
+            "date": "08/19",
+            "title": "AI 給的設計圖會騙人",
+            "url": "https://yazelin.github.io/events/skull-2026-08-19/"
+        },
+        {
+            "date": "08/26",
+            "title": "拆解 AI 許願池",
+            "url": "https://yazelin.github.io/events/wishpool-2026-08-26/"
+        },
+        {
+            "date": "09/02",
+            "title": "怎麼做高質感的網頁簡報",
+            "url": "https://yazelin.github.io/events/deck-2026-09-02/"
+        },
+        {
+            "date": "09/09",
+            "title": "視覺小說第一週：協作共創",
+            "url": "https://yazelin.github.io/events/site-2026-09-09/"
+        },
+        {
+            "date": "09/16",
+            "title": "視覺小說第二週：交給 Agent 做解謎",
+            "url": "https://yazelin.github.io/events/puzzle-2026-09-16/"
+        },
+        {
+            "date": "09/23",
+            "title": "用 AI 做自己的刷題網站",
+            "url": "https://yazelin.github.io/events/quiz-2026-09-23/"
+        },
+        {
+            "date": "09/30",
+            "title": "幫你的網頁加點特效",
+            "url": "https://yazelin.github.io/events/effects-2026-09-30/"
+        }
     ],
     "projects": [
         {
             "title": "格莉奇與黑洞先生",
             "description": "只有 4KB 記憶體的 AI 主播，開台第一天來了七個人，她說要記住每一個。七章小說，每一句都能點來聽。",
             "img": "images/projects/glitch-vn.jpg",
-            "tech": ["視覺小說"],
+            "tech": [
+                "角色與故事"
+            ],
             "url": "https://yazelin.github.io/glitch-vn/"
         },
         {
             "title": "格莉奇OS",
             "description": "格莉奇的網頁作業系統：LINE 風格聊天、心情日記、專屬音樂，桌上還有一隻會動的她。",
             "img": "images/projects/ai-brain-site.jpg",
-            "tech": ["網頁 OS", "PWA"],
+            "tech": [
+                "角色與故事"
+            ],
             "url": "https://yazelin.github.io/ai-brain-site/"
         },
         {
             "title": "iPAS AI 模擬考",
             "description": "iPAS AI 應用規劃師刷題站，890 題官方試題免費練，離線也能刷，有人用它考過了。",
             "img": "images/projects/ipas-ai-quiz.jpg",
-            "tech": ["刷題網站"],
+            "tech": [
+                "學習"
+            ],
             "url": "https://yazelin.github.io/ipas-ai-quiz/"
         },
         {
             "title": "Catime",
             "description": "每小時自動生一隻 AI 貓，跑了八個月，累積兩千多隻的圖庫。",
             "img": "images/projects/catime.jpg",
-            "tech": ["每天自己跑"],
+            "tech": [
+                "角色與故事"
+            ],
             "url": "https://yazelin.github.io/catime/"
         },
         {
             "title": "真AI咏唱魔法",
             "description": "對麥克風唸咒語，AI 即時生成魔法效果的生存遊戲。",
             "img": "images/projects/ai-chant-magic.jpg",
-            "tech": ["語音遊戲"],
+            "tech": [
+                "遊戲"
+            ],
             "url": "https://yazelin.github.io/ai-chant-magic/"
         },
         {
             "title": "Roll Formosa",
             "description": "把台灣街景滾成一顆球的遊戲，四座城市上線。",
             "img": "images/projects/roll-formosa.jpg",
-            "tech": ["3D 遊戲"],
+            "tech": [
+                "遊戲"
+            ],
             "url": "https://yazelin.github.io/roll-formosa/"
         },
         {
             "title": "K-Rider K 線騎手",
             "description": "用真實股價 K 線當地形的騎乘遊戲。",
             "img": "images/projects/k-rider.jpg",
-            "tech": ["網頁遊戲"],
+            "tech": [
+                "遊戲"
+            ],
             "url": "https://yazelin.github.io/k-rider/"
         },
         {
             "title": "AI 戰場編輯器",
             "description": "赤壁、官渡、垓下，六場古戰役 3D 重現，換一份資料就換一場戰役。",
             "img": "images/projects/battlefield-editor.jpg",
-            "tech": ["3D 編輯器"],
+            "tech": [
+                "AI 工具"
+            ],
             "url": "https://yazelin.github.io/battlefield-editor/"
         },
         {
             "title": "LINE 貼圖製造機",
             "description": "上傳一張角色圖，AI 產出一整組 LINE 貼圖。",
             "img": "images/projects/line-sticker-studio.jpg",
-            "tech": ["AI 工具"],
+            "tech": [
+                "AI 工具"
+            ],
             "url": "https://yazelin.github.io/line-sticker-studio/"
         }
     ],
     "tools": [
-        { "title": "LINE 對話製造機", "url": "https://yazelin.github.io/line-chat-maker/" },
-        { "title": "AI 字體風格庫", "url": "https://yazelin.github.io/ai-font-styles/" },
-        { "title": "台語辭典", "url": "https://yazelin.github.io/mandarin-taigi/" },
-        { "title": "客語辭典", "url": "https://yazelin.github.io/mandarin-hakka/" },
-        { "title": "瀏覽器去背", "url": "https://yazelin.github.io/bye-bg/" },
-        { "title": "台灣化轉換器", "url": "https://yazelin.github.io/taiwanize/" },
-        { "title": "行銷工具箱", "url": "https://yazelin.github.io/marketing-toolbox/" },
-        { "title": "抽獎轉盤", "url": "https://yazelin.github.io/lucky-wheel/" },
-        { "title": "網頁特效蒐集站", "url": "https://yazelin.github.io/web-effects-collector/" },
-        { "title": "隱形浮水印實驗室", "url": "https://yazelin.github.io/invisible-watermark-lab/" },
-        { "title": "格莉奇扭蛋機", "url": "https://yazelin.github.io/glitch-park-gacha/" },
-        { "title": "AI 願望池", "url": "https://yazelin.github.io/wish-pool/" },
-        { "title": "Mori 角色動畫工作室", "url": "https://mori-sprite-studio.vercel.app" }
+        {
+            "title": "LINE 對話製造機",
+            "url": "https://yazelin.github.io/line-chat-maker/"
+        },
+        {
+            "title": "AI 字體風格庫",
+            "url": "https://yazelin.github.io/ai-font-styles/"
+        },
+        {
+            "title": "台語辭典",
+            "url": "https://yazelin.github.io/mandarin-taigi/"
+        },
+        {
+            "title": "客語辭典",
+            "url": "https://yazelin.github.io/mandarin-hakka/"
+        },
+        {
+            "title": "瀏覽器去背",
+            "url": "https://yazelin.github.io/bye-bg/"
+        },
+        {
+            "title": "台灣化轉換器",
+            "url": "https://yazelin.github.io/taiwanize/"
+        },
+        {
+            "title": "行銷工具箱",
+            "url": "https://yazelin.github.io/marketing-toolbox/"
+        },
+        {
+            "title": "抽獎轉盤",
+            "url": "https://yazelin.github.io/lucky-wheel/"
+        },
+        {
+            "title": "網頁特效蒐集站",
+            "url": "https://yazelin.github.io/web-effects-collector/"
+        },
+        {
+            "title": "隱形浮水印實驗室",
+            "url": "https://yazelin.github.io/invisible-watermark-lab/"
+        },
+        {
+            "title": "格莉奇扭蛋機",
+            "url": "https://yazelin.github.io/glitch-park-gacha/"
+        },
+        {
+            "title": "AI 願望池",
+            "url": "https://yazelin.github.io/wish-pool/"
+        },
+        {
+            "title": "Mori 角色動畫工作室",
+            "url": "https://mori-sprite-studio.vercel.app"
+        }
     ]
 }
